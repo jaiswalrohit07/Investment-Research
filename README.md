@@ -8,6 +8,8 @@ In this Project,
 - We discussed about Benefits and Drawback of all of these strategies
 - We also created an Optimal Portfolio for all of them 
 
+link to slides: https://docs.google.com/presentation/d/1Hs3L61SkSzB4xOocpkBXOHoS3-JsIkCgebnlvkOd7XQ/edit?usp=sharing 
+
 Team Stonker:
 - Rohit Jaiswal
 - Akash Agrawal
